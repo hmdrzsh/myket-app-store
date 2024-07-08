@@ -1,0 +1,1 @@
+This project was carried out by Hamidreza Shahbazi and Amir Hossein Parsa in order to analyze the data of Miket store for the final project of the advanced programming course.
